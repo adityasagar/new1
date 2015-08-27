@@ -1,0 +1,10 @@
+package aditya;
+
+public class adi {
+
+	public static void main(String[] args) {
+		System.out.println("hello olx");
+
+	}
+
+}
